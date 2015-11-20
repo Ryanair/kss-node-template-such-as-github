@@ -1,0 +1,19 @@
+{
+  "name": "kss-node-template-such-as-github",
+  "version": "1.0.0",
+  "description": "This is a template for [kss-node](https://github.com/hughsk/kss-node) styleguide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanair/kss-node-template-such-as-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryanair/kss-node-template-such-as-github/issues"
+  },
+  "homepage": "https://github.com/Ryanair/kss-node-template-such-as-github#readme"
+}
