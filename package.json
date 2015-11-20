@@ -1,6 +1,6 @@
 {
   "name": "kss-node-template-such-as-github",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is a template for [kss-node](https://github.com/hughsk/kss-node) styleguide.",
   "main": "index.js",
   "scripts": {
