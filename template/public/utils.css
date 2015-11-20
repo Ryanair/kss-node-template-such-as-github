@@ -1,0 +1,44 @@
+.styleguide-classname {
+  font-size: 18px;
+  padding: 16px;
+}
+
+.styleguide-collapse .styleguide-collapse__header {
+  padding: 12px;
+  font-size: 18px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.styleguide-collapse .styleguide-collapse__content {
+  display: none;
+}
+
+.styleguide-palette {
+  float: left;
+  margin: 15px;
+}
+
+.styleguide-palette__color {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.styleguide-palette__text {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.copy-text {
+  width: 0;
+  height: 0;
+  position: relative;
+  z-index: -2;
+}
+
+.copy {
+  margin-top: 10px;
+  float: right;
+}
