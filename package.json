@@ -4,6 +4,7 @@
   "description": "This is a template for [kss-node](https://github.com/hughsk/kss-node) styleguide.",
   "main": "index.js",
   "scripts": {
+    "postinstall": "bower cache clean && bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
